@@ -1,8 +1,3 @@
-Read [](file:///e%3A/ComfyUI_Python/custom_nodes/Comfyui_ToolKit/nodes/image_resize.py)
-
-Read [](file:///e%3A/ComfyUI_Python/custom_nodes/Comfyui_ToolKit/__init__.py)
-
-Read [](file:///e%3A/ComfyUI_Python/custom_nodes/Comfyui_ToolKit/js/image_resize.js)
 
 ## 项目构成总览
 
