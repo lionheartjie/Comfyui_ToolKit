@@ -1,0 +1,5 @@
+from .mask_detect_bbox import NODE_CLASS_MAPPINGS as mask_bbox_mappings
+from .mask_detect_bbox import NODE_DISPLAY_NAME_MAPPINGS as mask_bbox_display_names
+
+NODE_CLASS_MAPPINGS = mask_bbox_mappings
+NODE_DISPLAY_NAME_MAPPINGS = mask_bbox_display_names
